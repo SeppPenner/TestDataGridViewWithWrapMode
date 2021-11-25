@@ -2,7 +2,6 @@ TestDataGridViewWithWrapMode
 ====================================
 
 TestDataGridViewWithWrapMode is an executable to check how a DataGridView with wrap mode works.
-The executable was written and tested in .Net 5.0.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/n5n4ehlo4q0w6st9?svg=true)](https://ci.appveyor.com/project/SeppPenner/testdatagridviewwithwrapmode)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TestDataGridViewWithWrapMode.svg)](https://github.com/SeppPenner/TestDataGridViewWithWrapMode/issues)
