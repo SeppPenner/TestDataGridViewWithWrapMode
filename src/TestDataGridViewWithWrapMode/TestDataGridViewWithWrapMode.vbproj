@@ -7,6 +7,7 @@
     <ApplicationIcon>Arrow.ico</ApplicationIcon>
     <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
     <LangVersion>latest</LangVersion>
+	<Nullable>enable</Nullable>
     <StartupObject>TestDataGridViewWithWrapMode.Main</StartupObject>
   </PropertyGroup>
 
