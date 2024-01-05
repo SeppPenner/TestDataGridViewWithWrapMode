@@ -1,4 +1,4 @@
-﻿Imports System.Windows.Forms
+Imports System.Windows.Forms
 
 Public Class Main
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -66,7 +66,8 @@ out:
         Else
             TextBox2.Text = ""
         End If
-        TextBox1.Text = result.Length
+        TextBox1.Text = result.Length.ToString()
+
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
